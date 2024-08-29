@@ -29,7 +29,7 @@ const surveyData = {
 const API = {
   ID : "35da5cf8",
   KEY : "cccedbd0dd97c304f98a169b8c5d1e31	—",
-  URL : "https://localhost:3000",
+  URL : "https://indrakp77.github.io/meal-planner/",
 }
 export {
   surveyData as Survey,

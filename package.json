@@ -16,7 +16,6 @@
     "react-scripts": "1.0.17"
   },
   "scripts": {
-    "start":"node App.js",
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
     "start-js": "react-scripts start",
@@ -28,5 +27,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://arimai.github.io/meal-planner"
+  "homepage": "https://indrakp77.github.io/meal-planner/"
 }
